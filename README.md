@@ -57,8 +57,9 @@ python src/predict.py Aug_Illustration.PNG
 # 🎯 Prediction: Helipad
 # 📊 Confidence: 94.2%
 ```
-
 ## 📁 Project Structure
+
+```plaintext
 helipad_detection/
 ├── 📂 data/
 │   └── 📂 sample/
@@ -82,8 +83,9 @@ helipad_detection/
 ├── 📄 README.md                            # This documentation
 ├── 📄 Aug_Illustration.PNG                 # Test image
 └── 📄 .gitignore                           # Git ignore rules
+```
 
-🧠 Model Architecture & Technical Details
+## 🧠 Model Architecture & Technical Details
 ```python
 Model: Sequential CNN
 ├── Input Layer: (224, 224, 3) RGB images
