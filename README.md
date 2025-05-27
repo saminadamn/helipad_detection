@@ -31,7 +31,7 @@ AI-powered helipad detection in aerial imagery using Convolutional Neural Networ
 
 ```shellscript
 # Clone repository
-git clone https://github.com/yourusername/helipad-detection.git
+git clone https://github.com/saminadamn/helipad-detection.git
 cd helipad-detection
 
 # Create virtual environment
@@ -312,15 +312,9 @@ We welcome contributions! Here's how to get started:
 
 ```shellscript
 # Fork and clone repository
-git clone https://github.com/yourusername/helipad-detection.git
+git clone https://github.com/saminadamn/helipad-detection.git
 cd helipad-detection
 
-# Create development branch
-git checkout -b feature/your-feature-name
-
-# Install development dependencies
-pip install -r requirements.txt
-pip install pytest black flake8  # Additional dev tools
 ```
 
 ### Contribution Guidelines
@@ -373,42 +367,24 @@ If you use this work in your research, please cite:
 ```bibtex
 @software{helipad_detection_2025,
   title={Helipad Detection System: AI-Powered Aerial Image Classification},
-  author={Your Name},
+  author={Samina Parveen},
   year={2025},
-  url={https://github.com/yourusername/helipad-detection},
+  url={https://github.com/saminadamn/helipad-detection},
   note={Deep learning system for automated helipad detection in aerial imagery}
 }
 ```
 
-## 📞 Support & Contact
-
-### Getting Help
-
-- **Issues**: [GitHub Issues](https://github.com/yourusername/helipad-detection/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/helipad-detection/discussions)
-- **Documentation**: [Wiki](https://github.com/yourusername/helipad-detection/wiki)
-
-
 ### Maintainers
 
-- **Primary**: [@yourusername](https://github.com/yourusername)
-- **Contributors**: See [Contributors](https://github.com/yourusername/helipad-detection/contributors)
-
-
+- **Primary**: [@saminadamn](https://github.com/saminadamn)
 ---
 
 ## 🏆 Acknowledgments
 
 - **Dataset**: Real helipad images from various aviation sources
 - **Framework**: TensorFlow/Keras for deep learning implementation
-- **Community**: Open source contributors and aviation professionals
-- **Inspiration**: Need for automated aviation safety solutions
 
 
 ---
 
-<div>**⭐ Star this repository if you find it useful!**
 
-[🚁 Demo](https://your-demo-link.com) • [📖 Documentation](https://your-docs-link.com) • [🐛 Report Bug](https://github.com/yourusername/helipad-detection/issues) • [💡 Request Feature](https://github.com/yourusername/helipad-detection/issues)
-
-</div>
