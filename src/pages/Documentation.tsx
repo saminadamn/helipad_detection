@@ -1,3 +1,4 @@
+import { useState } from 'react'
 import { motion } from 'framer-motion'
 import { 
   Book, 
@@ -14,7 +15,7 @@ import {
 } from 'lucide-react'
 
 const Documentation = () => {
-  const [copiedCode, setCopiedCode] = React.useState<string | null>(null)
+  const [copiedCode, setCopiedCode] = useState<string | null>(null)
 
   const copyToClipboard = (code: string, id: string) => {
     navigator.clipboard.writeText(code)

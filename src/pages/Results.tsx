@@ -1,11 +1,9 @@
 import { motion } from 'framer-motion'
 import { 
-  BarChart3, 
   Target, 
   TrendingUp, 
   Award, 
   Eye,
-  Clock,
   Cpu,
   CheckCircle,
   AlertTriangle,
