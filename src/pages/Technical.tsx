@@ -410,7 +410,7 @@ model.compile(
                     <Clock className="h-5 w-5 text-gray-600" />
                     <div>
                       <div className="font-medium text-gray-900">Inference Speed</div>
-                      <div className="text-sm text-gray-600"><100ms per image on CPU</div>
+                      <div className="text-sm text-gray-600">&lt;100ms per image on CPU</div>
                     </div>
                   </div>
                 </div>
